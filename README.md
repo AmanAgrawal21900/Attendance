@@ -1,4 +1,4 @@
-# Attendance
+# Attendance Manager
 An attendance tracking system made with PHP, MySQL, HTML5, and CSS3. 
 Used XAMPP as live server, with VScode as the IDE.
  
